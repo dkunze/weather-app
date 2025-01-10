@@ -1,0 +1,16 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.search-container {
+  margin: 20px;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+.history {
+  margin-top: 40px;
+}
